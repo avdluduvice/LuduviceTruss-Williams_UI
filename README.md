@@ -29,7 +29,7 @@ Luduvice, André Victor D., and Anaya Truss-Williams. 2024. "How Insured Are Wor
 - Scripts:
   - `AL_AT_2024_Replication_Master.R`: master script for running the replication package.
   - `AL_AT_2024_Replication_Figures_UR.R`: script to generate Figure 1.
-  - `AL_AT_2024_Replication_Transformations_UR.R`: script to implement all data transformation and calculations required for the analysis of the microdata.
+  - `AL_AT_2024_Replication_Transformations_UI.R`: script to implement all data transformation and calculations required for the analysis of the microdata.
   - `AL_AT_2024_Replication_Figures.R`: script to generate Figures 2 to 3 of the main text and Figure 4 of the Appendix.
   - `AL_AT_2024_Replication_Appendix.R`: script to generate Tables A.1-A.3.
 
