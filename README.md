@@ -8,7 +8,7 @@ The data and code in this replication package implement the data transformations
 
 ## Recommended Citation
 
-Luduvice, André Victor D., and Anaya Truss-Williams. 2024. "How Insured Are Workers Against Unemployment? Unemployment Insurance and the Distribution of Liquid Wealth." Economic Commentary, no. 2024-XX (September). https://doi.org/10.26509/frbc-ec-2024XX.
+Luduvice, André Victor D., and Anaya Truss-Williams. 2024. "How Insured Are Workers Against Unemployment? Unemployment Insurance and the Distribution of Liquid Wealth." Economic Commentary, no. 2024-16 (October). https://doi.org/10.26509/frbc-ec-202416.
 
 
 ## Contents
